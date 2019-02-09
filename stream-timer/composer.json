@@ -1,0 +1,13 @@
+{
+    "name": "joernneumeyer/stream-timer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Jörn Neumeyer",
+            "email": "joernneumeyer@protonmail.ch"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.11"
+    }
+}
